@@ -10,6 +10,6 @@
 | :----: | :--------------------: | :------: |
 | psr-3  |    Logger Interface    |    √     |
 | psr-4  |  Autoloading Standard  |    √     |
-| psr-6  |   Caching Interface    |          |
+| psr-6  |   Caching Interface    |    √     |
 | psr-7  | HTTP Message Interface |          |
 | psr-11 |  Container Interface   |          |

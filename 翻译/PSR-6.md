@@ -330,7 +330,7 @@ interface CacheItemPoolInterface
 
 ### CacheException
 
-此异常接口旨在用于发生严重（critical）错误时，包括但不限于混村设置，如连接到缓存服务器或提供的无效凭据。
+此异常接口旨在用于发生严重（critical）错误时，包括但不限于缓存设置，如连接到缓存服务器或提供的无效凭据。
 
 实现库抛出的异常必须实现该接口。
 
